@@ -4,10 +4,12 @@
 int main()
 {
     int i;
-    int j;
+    int j=0;
     int z;
     printf("O mai e wa mo shi de i ru \n");
     printf("NaNi!\n");
+    printf("call my name\t");
+    printf("John Cena\n");
     for(i= 0;i<10;i++){
         printf("Hello world!\n");
         printf("%x\n",&i);
@@ -16,7 +18,7 @@ int main()
             if(j != 1){
                 i = 0;
                 j = 1;
-                for(z =0;z>5;z++)
+                for(z =0;z<5;z++)
                 {
                     printf("muda\n");
                 }
