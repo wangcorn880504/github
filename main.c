@@ -6,7 +6,7 @@ int main()
     int i;
     int j;
     int z;
-    printf("O mai e wa mo si de e ru \n");
+    printf("O mai e wa mo shi de i ru \n");
     printf("NaNi!\n");
     for(i= 0;i<10;i++){
     printf("Hello world!\n");
